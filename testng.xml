@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Dstillery Application Test Automation Test Suite">
+<listeners>
+		<listener class-name="com.dstillery.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="Dstillery Application Test Cases">
+		<classes>
+			<class name="com.dstillery.qa.testcases.SearchPageTest"></class>
+			<class name="com.dstillery.qa.testcases.SearchResultsPageTest"></class>
+			<class name="com.dstillery.qa.testcases.AudienceDetailsPageTest"></class>
+            <class name="Exercise_3_File_Download.VerifyDownloadTaxonomyButton"></class>
+		</classes>
+	</test>
+</suite>

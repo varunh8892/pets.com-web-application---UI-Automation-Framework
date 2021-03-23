@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Dstillery Application Test Automation Test Suite" duration-ms="430972" started-at="2019-04-22T01:12:45Z" finished-at="2019-04-22T01:19:56Z">
+    <groups>
+    </groups>
+    <test name="Dstillery Application Test Cases" duration-ms="430972" started-at="2019-04-22T01:12:45Z" finished-at="2019-04-22T01:19:56Z">
+      <class name="com.dstillery.qa.testcases.SearchPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="6055" started-at="2019-04-21T21:13:01Z" finished-at="2019-04-21T21:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifySearchPageTitleTest()[pri:1, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="VerifySearchPageTitleTest" duration-ms="95" started-at="2019-04-21T21:13:07Z" finished-at="2019-04-21T21:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="856" started-at="2019-04-21T21:13:07Z" finished-at="2019-04-21T21:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="5596" started-at="2019-04-21T21:13:47Z" finished-at="2019-04-21T21:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyDogSearchResultspageAppearance()[pri:2, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="VerifyDogSearchResultspageAppearance" duration-ms="12875" started-at="2019-04-21T21:13:52Z" finished-at="2019-04-21T21:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDogSearchResultspageAppearance -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="908" started-at="2019-04-21T21:14:05Z" finished-at="2019-04-21T21:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="5543" started-at="2019-04-21T21:14:45Z" finished-at="2019-04-21T21:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyCatSearchresultspageAppearance()[pri:3, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="VerifyCatSearchresultspageAppearance" duration-ms="12781" started-at="2019-04-21T21:14:51Z" finished-at="2019-04-21T21:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCatSearchresultspageAppearance -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="815" started-at="2019-04-21T21:15:04Z" finished-at="2019-04-21T21:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="5901" started-at="2019-04-21T21:15:46Z" finished-at="2019-04-21T21:15:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyBirdSearchresultspageAppearance()[pri:4, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="VerifyBirdSearchresultspageAppearance" duration-ms="13617" started-at="2019-04-21T21:15:52Z" finished-at="2019-04-21T21:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBirdSearchresultspageAppearance -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="791" started-at="2019-04-21T21:16:05Z" finished-at="2019-04-21T21:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dstillery.qa.testcases.SearchPageTest -->
+      <class name="com.dstillery.qa.testcases.SearchResultsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5628" started-at="2019-04-21T21:13:08Z" finished-at="2019-04-21T21:13:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyDogResultsetSize()[pri:1, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyDogResultsetSize" duration-ms="9927" started-at="2019-04-21T21:13:13Z" finished-at="2019-04-21T21:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDogResultsetSize -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="825" started-at="2019-04-21T21:13:23Z" finished-at="2019-04-21T21:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5775" started-at="2019-04-21T21:14:06Z" finished-at="2019-04-21T21:14:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyDogResultsHeadingtext()[pri:2, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyDogResultsHeadingtext" duration-ms="9936" started-at="2019-04-21T21:14:12Z" finished-at="2019-04-21T21:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDogResultsHeadingtext -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="1013" started-at="2019-04-21T21:14:22Z" finished-at="2019-04-21T21:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5508" started-at="2019-04-21T21:15:04Z" finished-at="2019-04-21T21:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyDogResultssetlinksTexts()[pri:3, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyDogResultssetlinksTexts" duration-ms="12337" started-at="2019-04-21T21:15:10Z" finished-at="2019-04-21T21:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDogResultssetlinksTexts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="845" started-at="2019-04-21T21:15:22Z" finished-at="2019-04-21T21:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5774" started-at="2019-04-21T21:16:06Z" finished-at="2019-04-21T21:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyDogLoversLinkText()[pri:4, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyDogLoversLinkText" duration-ms="13025" started-at="2019-04-21T21:16:12Z" finished-at="2019-04-21T21:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDogLoversLinkText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="1025" started-at="2019-04-21T21:16:25Z" finished-at="2019-04-21T21:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5594" started-at="2019-04-21T21:16:26Z" finished-at="2019-04-21T21:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyDogLoversLink()[pri:5, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyDogLoversLink" duration-ms="15808" started-at="2019-04-21T21:16:31Z" finished-at="2019-04-21T21:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDogLoversLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="851" started-at="2019-04-21T21:16:47Z" finished-at="2019-04-21T21:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5325" started-at="2019-04-21T21:16:48Z" finished-at="2019-04-21T21:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyCatResultsetSize()[pri:6, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyCatResultsetSize" duration-ms="10094" started-at="2019-04-21T21:16:53Z" finished-at="2019-04-21T21:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCatResultsetSize -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="965" started-at="2019-04-21T21:17:04Z" finished-at="2019-04-21T21:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5763" started-at="2019-04-21T21:17:04Z" finished-at="2019-04-21T21:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyCatResultsHeadingtext()[pri:7, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyCatResultsHeadingtext" duration-ms="9876" started-at="2019-04-21T21:17:10Z" finished-at="2019-04-21T21:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCatResultsHeadingtext -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="760" started-at="2019-04-21T21:17:20Z" finished-at="2019-04-21T21:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5625" started-at="2019-04-21T21:17:21Z" finished-at="2019-04-21T21:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyCatLoversLinkText()[pri:8, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyCatLoversLinkText" duration-ms="13235" started-at="2019-04-21T21:17:27Z" finished-at="2019-04-21T21:17:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCatLoversLinkText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="811" started-at="2019-04-21T21:17:40Z" finished-at="2019-04-21T21:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5728" started-at="2019-04-21T21:17:41Z" finished-at="2019-04-21T21:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyCatLoversLink()[pri:9, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyCatLoversLink" duration-ms="15889" started-at="2019-04-21T21:17:46Z" finished-at="2019-04-21T21:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCatLoversLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="900" started-at="2019-04-21T21:18:02Z" finished-at="2019-04-21T21:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5875" started-at="2019-04-21T21:18:03Z" finished-at="2019-04-21T21:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyCatResultssetlinksTexts()[pri:10, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyCatResultssetlinksTexts" duration-ms="12394" started-at="2019-04-21T21:18:09Z" finished-at="2019-04-21T21:18:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCatResultssetlinksTexts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="787" started-at="2019-04-21T21:18:21Z" finished-at="2019-04-21T21:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5708" started-at="2019-04-21T21:18:22Z" finished-at="2019-04-21T21:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyBirdResultsetSize()[pri:11, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyBirdResultsetSize" duration-ms="10084" started-at="2019-04-21T21:18:28Z" finished-at="2019-04-21T21:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBirdResultsetSize -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="837" started-at="2019-04-21T21:18:38Z" finished-at="2019-04-21T21:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5447" started-at="2019-04-21T21:18:39Z" finished-at="2019-04-21T21:18:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyBirdResultsHeadingtext()[pri:12, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyBirdResultsHeadingtext" duration-ms="9828" started-at="2019-04-21T21:18:44Z" finished-at="2019-04-21T21:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBirdResultsHeadingtext -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="1242" started-at="2019-04-21T21:18:54Z" finished-at="2019-04-21T21:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5333" started-at="2019-04-21T21:18:55Z" finished-at="2019-04-21T21:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyBirdWatchingLinkText()[pri:13, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyBirdWatchingLinkText" duration-ms="13119" started-at="2019-04-21T21:19:01Z" finished-at="2019-04-21T21:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBirdWatchingLinkText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="1013" started-at="2019-04-21T21:19:14Z" finished-at="2019-04-21T21:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5458" started-at="2019-04-21T21:19:15Z" finished-at="2019-04-21T21:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyBirdLoversLink()[pri:14, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyBirdLoversLink" duration-ms="15933" started-at="2019-04-21T21:19:20Z" finished-at="2019-04-21T21:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBirdLoversLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="795" started-at="2019-04-21T21:19:36Z" finished-at="2019-04-21T21:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="5650" started-at="2019-04-21T21:19:37Z" finished-at="2019-04-21T21:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyBirdResultssetlinksTexts()[pri:15, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="VerifyBirdResultssetlinksTexts" duration-ms="12594" started-at="2019-04-21T21:19:43Z" finished-at="2019-04-21T21:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBirdResultssetlinksTexts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.SearchResultsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="832" started-at="2019-04-21T21:19:55Z" finished-at="2019-04-21T21:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dstillery.qa.testcases.SearchResultsPageTest -->
+      <class name="Exercise_3_File_Download.VerifyDownloadTaxonomyButton">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Exercise_3_File_Download.VerifyDownloadTaxonomyButton@cb5822]" name="setUp" is-config="true" duration-ms="4441" started-at="2019-04-21T21:12:45Z" finished-at="2019-04-21T21:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyDownloadTaxonomyButton()[pri:0, instance:Exercise_3_File_Download.VerifyDownloadTaxonomyButton@cb5822]" name="VerifyDownloadTaxonomyButton" duration-ms="10508" started-at="2019-04-21T21:12:50Z" finished-at="2019-04-21T21:13:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDownloadTaxonomyButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Exercise_3_File_Download.VerifyDownloadTaxonomyButton@cb5822]" name="tearDown" is-config="true" duration-ms="779" started-at="2019-04-21T21:13:00Z" finished-at="2019-04-21T21:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Exercise_3_File_Download.VerifyDownloadTaxonomyButton -->
+      <class name="com.dstillery.qa.testcases.AudienceDetailsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="setUp" is-config="true" duration-ms="5698" started-at="2019-04-21T21:13:24Z" finished-at="2019-04-21T21:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDogLoversAudienceLabel()[pri:1, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="verifyDogLoversAudienceLabel" duration-ms="15854" started-at="2019-04-21T21:13:30Z" finished-at="2019-04-21T21:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDogLoversAudienceLabel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="tearDown" is-config="true" duration-ms="884" started-at="2019-04-21T21:13:46Z" finished-at="2019-04-21T21:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="setUp" is-config="true" duration-ms="5622" started-at="2019-04-21T21:14:23Z" finished-at="2019-04-21T21:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCatLoversAudienceLabel()[pri:2, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="verifyCatLoversAudienceLabel" duration-ms="16118" started-at="2019-04-21T21:14:28Z" finished-at="2019-04-21T21:14:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCatLoversAudienceLabel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="tearDown" is-config="true" duration-ms="792" started-at="2019-04-21T21:14:45Z" finished-at="2019-04-21T21:14:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="setUp" is-config="true" duration-ms="5714" started-at="2019-04-21T21:15:23Z" finished-at="2019-04-21T21:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBirdWatchingAudienceLabel()[pri:3, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="verifyBirdWatchingAudienceLabel" duration-ms="15715" started-at="2019-04-21T21:15:29Z" finished-at="2019-04-21T21:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBirdWatchingAudienceLabel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dstillery.qa.testcases.AudienceDetailsPageTest@18be83e4]" name="tearDown" is-config="true" duration-ms="1122" started-at="2019-04-21T21:15:45Z" finished-at="2019-04-21T21:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dstillery.qa.testcases.AudienceDetailsPageTest -->
+    </test> <!-- Dstillery Application Test Cases -->
+  </suite> <!-- Dstillery Application Test Automation Test Suite -->
+</testng-results>
